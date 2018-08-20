@@ -9,7 +9,7 @@
 3. Mergeä harjoitustehtävä master -haaraan
 4. Selvitä mahdolliset conflict tilanteet
 5. Tee haara feature1, lisää feature1.md -tiedosto haaraan
-6. Lisää feature1.md:hen selvitys jostain git -komennosta esim. (ks. lisää [https://git-scm.com/docs](https://git-scm.com/docs)
+6. Lisää feature1.md:hen selvitys jostain git -komennosta. Ota kuvankaappaukset, kun käytät kyseistä komentoa ja kuvaile omin sanoin käyttöä. Komennoista lisää esim. (ks. lisää [https://git-scm.com/docs](https://git-scm.com/docs)
    - [git remote](https://git-scm.com/docs/git-remote)
    - [git tag](https://git-scm.com/docs/git-tag)
    - [git reset](https://git-scm.com/docs/git-reset)

@@ -474,7 +474,7 @@ Wiki:lle on looginen syy lähdekoodin seurannan näkökulmasta repositoriossa. L
 
 Wiki sitten sisältäisi selitykset miten laskin.py -tiedosto toimii ja miten sitä tulee käyttää. 
 
-### Yleinen työskentelyn
+### Yleinen työskentely - repositoriossa vai wikissä?
 
 Olen organisoinut tämän opintojakson siten, että "lähdekoodi" on markdown -tiedostoja, jotka on linkitetty toisiinsa ja kuvailevat opintojakson sisällön. Tästä nousee kysymys?
 

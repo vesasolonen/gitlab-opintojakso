@@ -15,7 +15,7 @@ Tee SSH -avainpari itsellesi:
 
 Tarkastele aiemmassa harjoitustehtävässäsi luomaasi etunimi_sukunimi_opiskelijanumero.md versiohistoriaa
 1. Kommentoi yksittistä committia ja ota kuvankaappaus sen muutoksista ja commitista
-2. Ota kuvankaappaus oman repositoriosi Overview -> Activity
+2. Ota kuvankaappaus oman repositoriosi Project -> Activity
 3. Ota kuvankaappaus oman repositoriosi Repository -> Contributors.
 4. Ota kuvankaappaus oman repositoriosi Repository -> Charts.
 5. Ota kuvankaappaus oman käyttäjätunnuksesi aktiivisuudesta (esim. https://gitlab.labranet.jamk.fi/username)

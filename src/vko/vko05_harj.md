@@ -18,7 +18,11 @@
 7. Mergeä tekemäsi selvitys (uusi feature) master -haaraan
 8. Selvitä mahdolliset conflict -tilanteet Merge -tapahtumissa... halutessasi voit generoida itse identtisen merge conflictin kuin tein esimerkissä
 9. Viimeistele työtilan issuet ja milestonet. Sulje ne. Muista kirjoittaa `/spend xh` issueihin, että käytetty aika näkyy.
-10. Tee työtilastasi Export Project ja lataa *.tar.gz -tiedosto itsellesi ja nimeä se opiskelijanumero.tar.gz (esim. k1234.tar.gz)
+10. Tee työtilastasi Export Project k1234.tar.gz -tiedosto seuraamalla alapuolisia ohjeita
+   - Vasemmalta Settings -> General
+   - Export project -> Expand -> Export Project
+   - Tarkasta sähköpostisi (palvelin lähettää sinne latauslinkin)
+   - lataa *.tar.gz -tiedosto itsellesi ja nimeä se opiskelijanumero.tar.gz (esim. k1234.tar.gz)
 11. Lähetä *.tar.gz -tiedosto karo.saharinen@jamk.fi otsikolla: "Gitlab-opintojakson palautus, etunimi sukunimi opiskelijanumero" (lisää omat tietosi etunimi, sukunimi ja opiskelijanumero kohtiin)
 12. Täytä [opintojaksopalaute -kysely](https://link.webropolsurveys.com/S/52BD46ED39D646B9)
 13. Odota arviointia Asiossa, kiitokset suorituksesta! :tada:

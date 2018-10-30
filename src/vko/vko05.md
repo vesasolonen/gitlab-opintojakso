@@ -1,5 +1,7 @@
 [Takaisin alkuun](README.md)
 
+:movie_camera: [Opetusvideona](https://www.youtube.com/watch?v=Awqt3hD4AqM) :movie_camera:
+
 # Branches & Merge Requests ja lopuksi repositorion asetuksia
 
 Viimeiseksi viikoksi on valmisteltu haastavin vaihe työskentelystä.

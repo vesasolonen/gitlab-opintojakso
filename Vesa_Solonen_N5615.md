@@ -64,17 +64,17 @@
 
 ![Kuva](src/passik.png "Kuva1")
 
-# :sunny: Sää
+# :partly_sunny: Sää
 ![Kuva](src/Saa.png "Sää")
-# &#9997; Opintoni:
+# :school: Opintoni:
 
 | **opintojaksotunnus** | **opintojaksonnimi** | **opintopistemäärä** | **ryhmä**  | **lukukausi** |
 | :-------------------- | :------------------- | :------------------: | :--------- | ------------: |
 |  TTZW0410             |  [*Git -versionhallinta ja Gitlab -projektien hallintaympäristö*](https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTZW0410&knro=&noclose=%20&lan=f) |  1op                 | TTK19S1DEV | syksy         |
 |  XXYY1234             |  *Testiopintojakso*  |  0op                 | TTK19S1DEV | syksy         |
 
-# &#127916; [Terminator 2 - Tuomion päivä (1991)](https://www.imdb.com/title/tt0103064/)
-### &#128173; Quote
+# :movie_camera: [Terminator 2 - Tuomion päivä (1991)](https://www.imdb.com/title/tt0103064/)
+### :speech_balloon: Quote
 ``` 
 John Connor : No, no, no, no. You gotta listen to the way people talk. You don't say "affirmative," or some shit like that. You say "no problemo." And if someone comes on to you with an attitude you say "eat me." And if you want to shine them on it's "hasta la vista, baby."
 
@@ -89,7 +89,7 @@ John Connor : Great! See, you're getting it!
 The Terminator : No problemo.
 
 ```
-# &#128249; Esimerkkivideo: 
+# :video_camera: Esimerkkivideo: 
 
-[![Esimerkkivideo]](src/password.webm "Esimerkkivideo")
+![Esimerkkivideo](src/password.webm "Esimerkkivideo")
 

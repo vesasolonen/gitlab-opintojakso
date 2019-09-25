@@ -6,8 +6,8 @@
 
 **Puhelin:** *040-1202296*
 
-**Osoite:** *Harjannetie 3 D 35  
-40900 SÄYNÄTSALO*
+**Osoite:** *Harjannetie 3 D 35*  
+*40900 SÄYNÄTSALO*
 
 **Kansallisuus:** *Suomi*
 

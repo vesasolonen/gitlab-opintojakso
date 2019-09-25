@@ -1,3 +1,4 @@
+# :bowtie: CV:
 # Curriculum Vitae
 
 **Sukunimi, Etunimi:** *Solonen, Vesa*
@@ -62,6 +63,7 @@
 **Työaika:** *30.06.1997 - 11.07.1997*  
 **Tehtävä:** *Puistojen ja viheralueiden kesätyöt*
 
+# :neutral_face: Kuva:
 ![Kuva](src/passik.png "Kuva1")
 
 # :partly_sunny: Sää

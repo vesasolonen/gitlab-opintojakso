@@ -14,7 +14,7 @@
 **Kielitaito:** *suomi(äidinkieli), englanti(hyvä), ruotsi(välttävä)*
 
 
-##Koulutus:
+## Koulutus:
 
 **Tutkinto:** *Tietotekniikka, Insinööri (AMK)*  
 *Jyväskylän ammattikorkeakoulu*  
@@ -28,7 +28,7 @@
 *Jyväskylän tekninen ammattioppilaitos*  
 *15.08.1996 - 31.05.1999*
 
-##Työkokemus:
+## Työkokemus:
 
 **Työnantaja:** *HuKi Jyväskylä Ry*  
 **Työaika:** *01.10.2012 - 31.05.2013*  
@@ -74,7 +74,7 @@
 |  XXYY1234             |  *Testiopintojakso*  |  0op                 | TTK19S1DEV | syksy         |
 
 # &#127916; [Terminator 2 - Tuomion päivä (1991)](https://www.imdb.com/title/tt0103064/)
-&#128173; Quote
+### &#128173; Quote
 ``` 
 John Connor : No, no, no, no. You gotta listen to the way people talk. You don't say "affirmative," or some shit like that. You say "no problemo." And if someone comes on to you with an attitude you say "eat me." And if you want to shine them on it's "hasta la vista, baby."
 

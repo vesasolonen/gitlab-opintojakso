@@ -1,4 +1,4 @@
-# :bowtie: CV:
+# :leo: CV:
 # Curriculum Vitae
 
 **Sukunimi, Etunimi:** *Solonen, Vesa*

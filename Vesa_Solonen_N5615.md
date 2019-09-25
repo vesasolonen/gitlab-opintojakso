@@ -64,7 +64,7 @@
 
 ![Kuva](src/passik.png "Kuva1")
 
-# &#127774; Sää
+# :sunny: Sää
 ![Kuva](src/Saa.png "Sää")
 # &#9997; Opintoni:
 
